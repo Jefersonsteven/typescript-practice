@@ -29,5 +29,4 @@
 
   console.log(sum);
 
-
 })()
